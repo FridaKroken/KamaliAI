@@ -208,3 +208,17 @@ __marimo__/
 
 #training
 res/dataset/*
+
+# Data
+res/dataset/
+data/splits/
+
+# Modellvekter og treningsresultater
+runs/
+*.pt
+*.onnx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
